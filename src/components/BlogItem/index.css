@@ -1,0 +1,33 @@
+/* Write your CSS code here */
+* {
+  font-family: 'Roboto';
+}
+
+.list-item-container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.first-line {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.published-date {
+  color: #616e7c;
+}
+
+.title {
+  color: #12022f;
+}
+
+.description {
+  color: #616e7c;
+}
+
+.horizontal-line {
+  border: solid 1px #9aa5b1;
+  width: 100%;
+}

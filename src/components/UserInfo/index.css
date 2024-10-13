@@ -1,0 +1,16 @@
+/* Write your CSS code here */
+* {
+  font-family: "Roboto";
+}
+
+.user-info-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.profile {
+  height: 100px;
+  width: 100px;
+}
